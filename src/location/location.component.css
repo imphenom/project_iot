@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  background-color: brown;
+  color: lightpink;
+  border-radius: 20px;
+  height: 75px;
+  justify-content: center;
+  margin-bottom: 20px;
+  padding: 15px;
+  font-size: 22px;
+}
